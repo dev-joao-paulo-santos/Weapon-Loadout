@@ -1,0 +1,11 @@
+Model Information:
+* title:	M1014
+* source:	https://sketchfab.com/3d-models/m1014-284715c30c444589879d3356640c169f
+* author:	Euan Mitchell (https://sketchfab.com/tigg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "M1014" (https://sketchfab.com/3d-models/m1014-284715c30c444589879d3356640c169f) by Euan Mitchell (https://sketchfab.com/tigg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

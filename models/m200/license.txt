@@ -1,0 +1,11 @@
+Model Information:
+* title:	CheyTac M200 «Intervention» sniper rifle
+* source:	https://sketchfab.com/3d-models/cheytac-m200-intervention-sniper-rifle-231bc2d38c4c4cf2bbe882112caa1ba4
+* author:	Aleksandr (https://sketchfab.com/sannf4)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CheyTac M200 «Intervention» sniper rifle" (https://sketchfab.com/3d-models/cheytac-m200-intervention-sniper-rifle-231bc2d38c4c4cf2bbe882112caa1ba4) by Aleksandr (https://sketchfab.com/sannf4) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

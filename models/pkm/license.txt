@@ -1,0 +1,11 @@
+Model Information:
+* title:	PKM
+* source:	https://sketchfab.com/3d-models/pkm-4e44b6c6043448908f9fdd2c30cc7da4
+* author:	Ivan Norman (https://sketchfab.com/vanidza)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PKM" (https://sketchfab.com/3d-models/pkm-4e44b6c6043448908f9fdd2c30cc7da4) by Ivan Norman (https://sketchfab.com/vanidza) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

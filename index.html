@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="dev-joao-paulo-santos">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="icon.css">
+
+    <title>Loadout</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Seja bem vindo ao seu arsenal!</h1><br>
+        <h4>Abra o menu, escolha sua arma e inspecione-a!</h4>
+        <br>
+
+
+        <div id="loadout">
+            <br>
+            <h4 id="textmenu">Escolha sua arma!</h4>
+            <button id="arrowbtn" class="material-icons" onclick="showAndHide()">arrow_forward</button>
+            <button class="gun" id="g1" onclick="hide()">M4A1</button>
+            <button class="gun" id="g2" onclick="hide()">AK 47</button>
+            <button class="gun" id="g3" onclick="hide()">M1014</button>
+            <button class="gun" id="g4" onclick="hide()">M200</button>
+            <button class="gun" id="g5" onclick="hide()">Deagle</button>
+            <button class="gun" id="g6" onclick="hide()">PKM</button>
+            <button class="gun" id="g7" onclick="hide()">SCAR L</button>
+        </div>
+
+        <canvas id="scene"></canvas>
+        <canvas id="chart1"></canvas>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+    <script type="importmap">
+        {
+            "imports": {
+                "three": "./three/three.module.js",
+                "OrbitControls": "./three/OrbitControls.js",
+                "GLTFLoader": "./three/GLTFLoader.js"
+            }
+        }
+    </script>
+    <script src="main.js"></script>
+    <script src="3dview.js" type="module"></script>
+    <script>
+        const btnAppear = document.getElementById("arrowbtn"), menu = document.getElementById("loadout")
+        let state = false
+        const weaponBtn = document.getElementsByClassName("gun")
+        const canvasChart = document.getElementById("chart1")
+        const canvasScene = document.getElementById("scene")
+
+        function show(){
+                menu.style.transitionDuration = '.7s'
+                menu.style.left = '0vh'
+                btnAppear.style.left = '16.5vw'
+                btnAppear.style.transform = 'rotateZ(-180deg)'
+                canvasChart.style.left = '10vw'
+                canvasScene.style.left = '10vw'
+                state = true
+        }
+        function hide(){
+            menu.style.transitionDuration = '.7s'
+                menu.style.left = '-27.2vh'
+                btnAppear.style.left = '-.5vw'
+                btnAppear.style.transform = 'rotateX(180deg)'
+                canvasChart.style.left = '0'
+                canvasScene.style.left = '0'
+                state = false
+        }
+
+        function showAndHide() {
+            if (state === false) {
+                show();
+
+                 }
+            else {
+                hide(); 
+ 
+                }
+        }
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modern Warefare M4A1
+* source:	https://sketchfab.com/3d-models/modern-warefare-m4a1-167dd49ffff14d41ab11b6417f128bf1
+* author:	Nneako (https://sketchfab.com/nickolasa.mcintosh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modern Warefare M4A1" (https://sketchfab.com/3d-models/modern-warefare-m4a1-167dd49ffff14d41ab11b6417f128bf1) by Nneako (https://sketchfab.com/nickolasa.mcintosh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
