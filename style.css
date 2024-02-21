@@ -92,8 +92,8 @@ max-height: 120px;
 #scene{
     transition-duration: .7s;
 position: relative;
-width: 600px;
-height: 300px;
+width: 55vw;
+height: 35vh;
 border-radius: 150px;
 
 }
