@@ -92,16 +92,17 @@ max-height: 120px;
 #scene{
     transition-duration: .7s;
 position: relative;
-width: 55vw;
-height: 28vh;
+width: 56vw;
+height: 17vh;
 border-radius: 150px;
+border: 1px solid lightblue;
 
 }
 
 #chart1{
     transition-duration: .7s;
 margin-top: 10vh;
-width: 50vw;
-scale: .8;
+width: 42vw;
+scale: .4;
 position: relative;
 }
